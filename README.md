@@ -1,4 +1,4 @@
-# OMIAURANO2
+# OMI AURA NO2 Concentrations Before & After COVID-19
 
 <h3>NOAA-CESSRST Summer Bridge project: Evaluating the Coastal Environmental Impacts of COVID-19</h3>
 
